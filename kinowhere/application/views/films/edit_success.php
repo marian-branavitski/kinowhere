@@ -1,0 +1,1 @@
+<p>Film <?php echo $film_title; ?> was edited successfully!</p>
